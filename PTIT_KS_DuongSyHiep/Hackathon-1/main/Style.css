@@ -39,6 +39,16 @@ nav {
 
 .logo-box h2 {
   font-size: 7vh;
+  margin-left: -15vh;
+}
+
+.logo-box .dot {
+  width: 1vh;
+  height: 1vh;
+  border-radius: 50%;
+  background-color: rgb(193, 203, 143);
+  margin-left: -25vh;
+  margin-top: -5vh;
 }
 
 .nav-bar {
